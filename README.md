@@ -9,7 +9,7 @@
 
 - 🌐 Web Developer passionate about building clean & functional websites
 - 🛠️ IT Support with hands-on experience in troubleshooting & networking
-- 🌱 Currently learning **[teknologi yang sedang dipelajari, misal: Next.js / Laravel]**
+- 🌱 Currently learning ** Next.js / Laravel**
 - 💬 Ask me about **HTML, CSS, JavaScript, or IT troubleshooting**
 - 📫 Reach me at **sutanfanabih.team@gmail.com**
 - ⚡ Fun fact: I fix bugs in code *and* in hardware 😄
