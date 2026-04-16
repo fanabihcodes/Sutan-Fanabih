@@ -75,7 +75,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=[fanabihcodes]&color=6366F1&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?fanabihcodes=[fanabihcodes]&color=6366F1&style=flat-square&label=Profile+Views)
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
