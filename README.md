@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=[https://github.com/fanabihcodes]&theme=default&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=[fanabihcodes]&theme=default&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=[https://github.com/fanabihcodes]&color=6366F1&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=[fanabihcodes]&color=6366F1&style=flat-square&label=Profile+Views)
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
