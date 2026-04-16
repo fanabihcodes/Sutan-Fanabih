@@ -58,9 +58,6 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=[USERNAME-GITHUB]&show_icons=true&theme=default&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=333333&bg_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-GITHUB]&layout=compact&hide_border=true&title_color=6366F1&text_color=333333&bg_color=ffffff" />
-
 </div>
 
 <div align="center">
