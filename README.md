@@ -51,7 +51,6 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -68,7 +67,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=[USERNAME-GITHUB]&theme=default&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=[fanabihcodes]&theme=default&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
 
 </div>
 
@@ -76,7 +75,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME-GITHUB]&color=6366F1&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=[fanabihcodes]&color=6366F1&style=flat-square&label=Profile+Views)
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
